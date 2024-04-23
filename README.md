@@ -16,5 +16,5 @@ https://store.shopping.yahoo.co.jp/orangepicoshop/pico-i-009.html
   
 ![MEZ6802RAM PCB BOTTOM](https://github.com/satoshiokue/MEZ6800RAM/blob/main/MEZ6800RAMbottom.jpg)  
 
-https://github.com/satoshiokue/EMUZ80-1802RAM
+https://github.com/satoshiokue/EMUZ80-6800RAM
 
